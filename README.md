@@ -9,19 +9,18 @@ I passionate about solving problems and I love the opportunity to develop system
 
 I am a person who always likes to be learning new technologies, despite more experience with backend, I am currently studying React, improving my knowledge with Spring, Spring Boot, JPA, and at the same time studying more in detail MongoDB.
 
-In my free time I like to enjoy my family, I love to travel with my wife, ride a bike, watch a good movie, travel and always study reading a book or text.
+In my free time I like to enjoy the family, which I love, we love to see a good movie or series. Personally I love to practice sports like cycling, basketball, volleyball, but I also love water activities like scuba diving and sailing.
+
 
 #### Current Personal Projects
 
 #### React:
   - [ReFlix](https://reflix.vercel.app): Responsive web application in NetFlix format for learning React and its concepts.
 
+#### Spring:
+  - [AlgaFood]: Project using Spring, JPA, Hibernate, MySQL, among others, which is the backend layer of a food delivery company in iFood format using REST APIs.
 
-Regards,
-
-
-
-#### Renato Jiquirica Ramos
+Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rjramos70)](https://www.linkedin.com/in/rjramos70)
 
