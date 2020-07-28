@@ -9,7 +9,7 @@ I passionate about solving problems and I love the opportunity to develop system
 
 I am a person who always likes to be learning new technologies, despite more experience with backend, I am currently studying React, improving my knowledge with Spring, Spring Boot, JPA, and at the same time studying more in detail MongoDB.
 
-In my free time I like to walk with my wife, ride a bike, watch a good movie, travel and always study reading a book or text.
+In my free time I like to enjoy my family, I love to travel with my wife, ride a bike, watch a good movie, travel and always study reading a book or text.
 
 #### Current Personal Projects
 
@@ -20,7 +20,8 @@ In my free time I like to walk with my wife, ride a bike, watch a good movie, tr
 Regards,
 
 
-# Renato Jiquirica Ramos
+
+#### Renato Jiquirica Ramos
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rjramos70)](https://www.linkedin.com/in/rjramos70)
 
