@@ -11,10 +11,9 @@ I am a person who always likes to be learning new technologies, despite more exp
 
 In my free time I like to walk with my wife, ride a bike, watch a good movie, travel and always study reading a book or text.
 
-### Currently studying:
+#### Current Personal Projects
 
 #### React:
-- Current project: 
   - [ReFlix](https://reflix.vercel.app): Responsive web application in NetFlix format for learning React and its concepts.
 
 
