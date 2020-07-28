@@ -13,13 +13,12 @@ In my free time I like to walk with my wife, ride a bike, watch a good movie, tr
 
 ### Currently studying:
 
-# React:
+#### React:
 - Current project: 
-  - ReFlix: Responsive web application in NetFlix format for learning React and its concepts.
+  - [ReFlix](https://reflix.vercel.app): Responsive web application in NetFlix format for learning React and its concepts.
 
-[![React]](https://img.shields.io/badge/React-Cutting%20Edge%20Tech-blue?style=flat-square&link=https://reflix.vercel.app)](https://reflix.vercel.app)
 
-Would you like to find me?
+Regards,
 
 
 # Renato Jiquirica Ramos
