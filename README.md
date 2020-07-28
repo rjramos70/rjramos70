@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+# Renato Jiquirica Ramos
+Repositório com descrição pessoal
+
+
+Would you like to find me?
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rjramos70)](https://www.linkedin.com/in/rjramos70)
+
+
+
 <!--
 **rjramos70/rjramos70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
