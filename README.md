@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name's Renato Jiquiriçá Ramos, I am from Rio de Janeiro - Brazil (🇧🇷) and I have been working with backend development for many years, mostly with Java and the last year with Spring. I also have experience with other technologies.
+My name's Renato Jiquiriçá Ramos, I am from Rio de Janeiro - Brazil (🇧🇷) and I have been working with backend development for many years, mostly with Java, and for the past few years with Spring stack. I also have experience with other technologies.
 
 I am currently starting a new challenge as Software Developer at [B2W Digital](https://ri.b2w.digital) which is one of the biggest players in the Brazilian and South American retail market. My main responsibility is to automate the process of managing users, and profiles, in different systems through integrations using APIs.
 
