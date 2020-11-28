@@ -9,7 +9,7 @@ I am passionate about solving problems and I love the opportunity to develop sys
 
 I am a person who always likes to be learning new technologies, despite more experience with backend, I am currently studying React, improving my knowledge with Spring, Spring Boot, JPA, and at the same time studying more in detail MongoDB.
 
-In my free time I like to enjoy the family, which I love, we love to see a good movie or series. Personally I love to practice sports like cycling, basketball, volleyball, but I also love water activities like scuba diving and sailing.
+In my free time I like to enjoy the family, which I love. I like love to see a good movie or series. Personally I love to practice sports like cycling, basketball, volleyball, but I also love water activities like scuba diving and sailing.
 
 
 #### Current Personal Projects
